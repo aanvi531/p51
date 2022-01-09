@@ -1,0 +1,57 @@
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border: solid;
+    border-color: #ffffff;
+    border-width: 1 px;
+    text-align: center;
+    font-family: fantasy;
+    margin: 0 px;
+    padding: 30 px;
+    
+}
+
+.header{
+    text-align: center;
+    font-family: cursive;
+    color: rgb(0, 153, 255);
+    border: solid;
+
+    
+}
+
+.waffle{
+    text-align: left;
+}
+
+.aboutMe{
+    text-align: right;
+}
+
+.title{
+    text-align: center;
+    font-size: 100;
+    font-family: fantasy;
+}
+
+*{
+    
+    background-image: url("background.png");
+    border-color: #ffffff;
+}
+
+li{
+    text-align: left;
+}
+
+.items{
+    border: solid;
+    border-width: 1 px;
+    border-color: #ffffff;
+    color: #777777;
+    font-family: fantasy;
+    width: 250;
+    height: 400;
+    
+}
